@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-03-10T20:28:15.492277",
+    "rating": 2,
+    "notes": "the humans are ai generated. the tram is not on the tramway. the house did not preserve the nano presicion level quality of details. the chimney top is not visible",
+    "prompt_file": "prompts/architecture/architecture_20260310_202628.json",
+    "image_file": "images/architecture/architecture_20260310_202628.jpg",
+    "model": "nano-banana-2",
+    "category": "architecture-exterior"
+  },
+  {
+    "timestamp": "2026-03-10T23:50:55.615178",
+    "rating": 3,
+    "notes": "the tram should be modern and also the tracks should be exactly how they are in the input image",
+    "prompt_file": "prompts/architecture/architecture_20260310_234908.json",
+    "image_file": "images/architecture/architecture_20260310_234908.jpg",
+    "model": "nano-banana-2",
+    "category": "architecture-exterior"
+  },
+  {
+    "timestamp": "2026-03-10T23:57:22.460148",
+    "rating": 3,
+    "notes": "wrong tram and chimney not visible",
+    "prompt_file": "prompts/architecture/architecture_20260310_235632.json",
+    "image_file": "images/architecture/architecture_20260310_235632.jpg",
+    "model": "nano-banana-2",
+    "category": "architecture-exterior"
+  },
+  {
+    "timestamp": "2026-03-11T00:05:16.378147",
+    "rating": 2,
+    "notes": "scene is completely wrong",
+    "prompt_file": "prompts/architecture/architecture_20260311_000322.json",
+    "image_file": "images/architecture/architecture_20260311_000322.jpg",
+    "model": "nano-banana-2",
+    "category": "architecture-exterior"
+  },
+  {
+    "timestamp": "2026-03-13T09:49:41.691509",
+    "rating": 4,
+    "notes": "seems ok",
+    "prompt_file": "prompts/miscellaneous/miscellaneous_20260313_094152.json",
+    "image_file": "images/miscellaneous/miscellaneous_20260313_094152.jpg",
+    "model": "nano-banana-2",
+    "category": "miscellaneous"
+  }
+]

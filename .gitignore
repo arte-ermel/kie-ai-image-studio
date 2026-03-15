@@ -1,0 +1,42 @@
+# ── Secrets ───────────────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+secrets.json
+
+# ── Generated outputs (large binary files) ────────────────────────────────────
+images/
+
+# ── Agent state files ─────────────────────────────────────────────────────────
+image_cache.json
+last_used.json
+learned_preferences.json
+projects/*/learned_preferences.json
+tasks.db
+
+# ── Claude Code config ───────────────────────────────────────────────────────
+.claude/
+
+# ── Projects (images are binary, prompts/evaluations are safe) ────────────────
+projects/*/images/
+
+# Keep the prompts directory but ignore nothing inside it by default
+# (prompt JSONs are safe to commit — they contain no keys)
+
+# ── Python ────────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# ── macOS ─────────────────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-03-15T12:28:41.427277",
+  "model": "nano-banana-2",
+  "category": "miscellaneous",
+  "style": "photorealistic",
+  "image_mode": "generate",
+  "enhance_level": "directors_cut",
+  "original_description": "A pile of adorable kittens",
+  "prompt": "Medium shot capturing an irresistible pile of kittens — seven or eight tiny kittens tumbled together in a soft woven basket, a living tangle of tabby stripes, calico patches, ginger fur, and tuxedo markings. Paws draped over siblings, tiny pink toe beans visible, ears folded at different angles. Several kittens dozing with eyes closed, two alert with wide curious eyes catching the light. Visible individual whiskers catching sidelight, fine fur texture showing each strand, soft vellus fuzz on ears backlit with warm glow. Natural skin visible on noses — pink, freckled, slightly damp. A warm knitted blanket beneath them with visible yarn texture. Shallow depth of field isolating the kitten pile against a softly blurred living room background with warm afternoon window light. Golden hour warmth spilling across the scene, gentle shadow gradients between intertwined bodies. Shot on 85mm f/2.0, ISO 200, natural window light with soft fill. Every surface carries tangible physical presence — individual fur directions, tiny claw tips, the weight of small sleeping bodies pressed together. Do not render as illustration, painting, cartoon, or CGI. No airbrushed plastic skin, no uniform fur texture, no symmetrical faces.",
+  "api_parameters": {
+    "aspect_ratio": "4:3",
+    "resolution": "2K",
+    "output_format": "jpg"
+  },
+  "tags": [
+    "test",
+    "kittens"
+  ],
+  "project": "test-kittens-project",
+  "task_id": "dcf07a90f3a6112abd2cb4e5af79677c",
+  "result_url": "https://tempfile.aiquickdraw.com/image-format-converter/1773570491682-v91jlynuy8a.jpg"
+}
