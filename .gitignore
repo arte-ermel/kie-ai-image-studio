@@ -17,11 +17,14 @@ tasks.db
 # ── Claude Code config ───────────────────────────────────────────────────────
 .claude/
 
-# ── Projects (images are binary, prompts/evaluations are safe) ────────────────
+# ── Projects (images are binary, real project data stays local) ───────────────
 projects/*/images/
+projects/*/
+!projects/test-kittens-project/
 
-# Keep the prompts directory but ignore nothing inside it by default
-# (prompt JSONs are safe to commit — they contain no keys)
+# ── Prompts (directory structure tracked, real prompt data stays local) ───────
+prompts/**/*.json
+!prompts/*/.gitkeep
 
 # ── Python ────────────────────────────────────────────────────────────────────
 __pycache__/
